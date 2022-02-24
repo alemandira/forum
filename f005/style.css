@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+div {
+    border:15 solid gray;
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+#a {
+    background-color: aquamarine;
+}
+
+#b {
+    background-color: coral;
+    float: left;
+    width: 39%;
+}
+
+#c {
+    background-color: purple;
+    float: left;
+    width: 44%;
+}
+
+#d {
+    background-color: yellow;
+    float: left;
+    clear: left;
+    width: 95%;
+}
+
+#e {
+    background-color: darkseagreen;
+    text-align: center;
+    clear: left;
+}
+
+#f {
+    background-color: brown;
+    float: left;
+    width: 99%;
+}
