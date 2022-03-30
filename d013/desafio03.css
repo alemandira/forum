@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+caption{
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    width: 650px;
+    left: 35vh;
+    position: relative;
+}
+
+th {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(240, 198, 144);
+}
+
+th.mulher {
+    background-color: rgb(185, 102, 158);
+}
+
+th.homen {
+    background-color: rgb(91, 91, 155);
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+td.nome {
+    background-color: rgb(224, 224, 118);
+}
+
+td.filme {
+    background-color: rgb(95, 144, 167);
+}
