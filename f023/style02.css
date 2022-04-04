@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 400px;
+    height: 400px;
+    border-collapse: collapse;
+   
+}
+
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left; /*Alinhamento horizontal padrao todas as caixas*/
+    vertical-align: top; /*Alinhamento vertical padrão todas as caixas*/
+}
+
+.numero {
+    text-align: right; /*Alinhamento especifico caixas CLASS = numero*/
+    vertical-align: bottom;  /*Alinhamento especifico caixas CLASS = numero*/
+}
+
+
+
+
